@@ -1,3 +1,3 @@
 # kotoba_no_ki
 
-Um Android app para ensinar Japonês básico e intermedirio.
+Um Android app e website para ensinar Japonês básico e intermediário.
